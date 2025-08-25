@@ -1,0 +1,127 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "ChuongDangChuVM_1.0.apk": {
+    "hash": "4c6521dc1b76c483d2dacf560acf362c07c45fe45abd292106db875cf8eb6ed4",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "320": "com.chuong.dangchu.1.png",
+      "0": "com.chuong.dangchu.1.png"
+    },
+    "antiFeatures": {},
+    "packageName": "com.chuong.dangchu",
+    "versionCode": 1,
+    "name": "DangChuVM",
+    "versionName": "1.0",
+    "minSdkVersion": 28,
+    "targetSdkVersion": 34,
+    "sig": "2535acf238169b18d9c6c94c6889d411",
+    "signer": "422f6173dab04e1354740c30fd6601bcff621d03691d751ffc80e69f3fb2dff6",
+    "size": 135806,
+    "apkName": "ChuongDangChuVM_1.0.apk",
+    "icon": "com.chuong.dangchu.1.png",
+    "added": 1756047347.329668
+  },
+  "ChuongDangChuVM_release.unsigned.apk": {
+    "hash": "a3a38e738f36a6dc914206c8697cb41ff94b58f2afb7142a07231b4f28b0e13a",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "320": "com.chuong.dangchu.2.png",
+      "0": "com.chuong.dangchu.2.png"
+    },
+    "antiFeatures": {},
+    "packageName": "com.chuong.dangchu",
+    "versionCode": 2,
+    "name": "DangChuVM",
+    "versionName": "1.1",
+    "minSdkVersion": 28,
+    "targetSdkVersion": 34,
+    "sig": "2535acf238169b18d9c6c94c6889d411",
+    "signer": "422f6173dab04e1354740c30fd6601bcff621d03691d751ffc80e69f3fb2dff6",
+    "size": 135806,
+    "apkName": "ChuongDangChuVM_release.unsigned.apk",
+    "icon": "com.chuong.dangchu.2.png",
+    "added": 1756047726.0
+  },
+  "ChuongDangChuVM_release.apk": {
+    "hash": "da9ea140620bcccb34e24d842d3ee6867dc1113e38d4d657138ac7d2ac8e80ef",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "320": "com.chuong.dangchu.3.png",
+      "0": "com.chuong.dangchu.3.png"
+    },
+    "antiFeatures": {},
+    "packageName": "com.chuong.dangchu",
+    "versionCode": 3,
+    "name": "DangChuVM",
+    "versionName": "1.0",
+    "minSdkVersion": 28,
+    "targetSdkVersion": 34,
+    "sig": "2535acf238169b18d9c6c94c6889d411",
+    "signer": "422f6173dab04e1354740c30fd6601bcff621d03691d751ffc80e69f3fb2dff6",
+    "size": 139905,
+    "apkName": "ChuongDangChuVM_release.apk",
+    "icon": "com.chuong.dangchu.3.png",
+    "added": 1756052516.905479
+  },
+  "NewProject_release.apk": {
+    "hash": "da170eaedd14cfa32c2470c71fead737e55972173eed947e35ca4e4b18882ea6",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "320": "com.my.newproject.1.png",
+      "0": "com.my.newproject.1.png"
+    },
+    "antiFeatures": {},
+    "packageName": "com.my.newproject",
+    "versionCode": 1,
+    "name": "L\u1ed3n",
+    "versionName": "1.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "sig": "2535acf238169b18d9c6c94c6889d411",
+    "signer": "422f6173dab04e1354740c30fd6601bcff621d03691d751ffc80e69f3fb2dff6",
+    "size": 119422,
+    "apkName": "NewProject_release.apk",
+    "icon": "com.my.newproject.1.png",
+    "added": 1756052518.04919
+  }
+}

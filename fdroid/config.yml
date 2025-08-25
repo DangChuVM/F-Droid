@@ -1,0 +1,13 @@
+sdk_path: $ANDROID_HOME
+
+repo_url: http://localhost:8080/fdroid/repo
+repo_name: Chuong F-Droid Repo
+repo_description: >
+  Chuong's personal F-Droid repository for hosting and sharing Android apps.
+
+# Repo signing
+keystore: keystore.jks
+keystorepass: chuong
+keypass: chuong
+repo_keyalias: fdroidrepo
+keydname: CN=Chuong, OU=Dev, O=ChuongOrg, L=Hanoi, S=HN, C=VN
